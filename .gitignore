@@ -1,0 +1,7 @@
+.bash_logout
+        .bash_profile
+        .bashrc
+        .cshrc
+        .ssh/
+        .tcshrc
+        .viminfo
